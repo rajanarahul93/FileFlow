@@ -1,0 +1,7 @@
+*{
+  font-family: "Gilroy";
+}
+
+::selection{
+  color: rgb(184, 117, 41);
+}
