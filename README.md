@@ -1,4 +1,3 @@
-### Project Name: **FileFlow - Interactive File Cards**
 
 ### README
 
